@@ -163,5 +163,3 @@ If you are calling any of the methods that use timing, and you aren't calling th
 
 **-Are ou blocking the run method?**
 If you are using a really long blocking delay or while loop, you could be blocking your call to `run`.  
-
-**-Are you 
